@@ -2,7 +2,11 @@
 title: "jabirs website"
 output: html_document
 date: "2022-08-12"
+html document:
 theme: spacelab
+toc: true
+toc_depth: 3
+toc_floating: true
 ---
 
 ##about
