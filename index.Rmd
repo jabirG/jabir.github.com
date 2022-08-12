@@ -30,3 +30,6 @@ toc_floating: true
 
 [email](jabirghaffar@gmail.com)
 
+
+![](img/test.png){width=100px}
+
